@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Website</title>
+    <link rel="stylesheet" href="stil\stil.css" type="text/css">
+
+    <style>
+        a:link {
+            color:blue;
+        }
+
+        a:visited {
+
+            color:aquamarine;
+        }
+
+        a:hover {
+            color:brown;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My First Website</h1>
+    <p>
+        My name is Zeynep. I'm 20 years old. I'm studying Software Engineering in Kocaeli University. 
+    </p>
+
+    <ul>
+        <li>Reading</li>
+        <li>Swimming</li>
+        <li>Walking</li>
+        <li>Hanging out with my friends</li>
+    </ul>
+
+    <p1><a href="**" target="__" >This a link of my blog</a></p1>
+
+    <img src="img\6d9ea77c13064782.jpg" width="150px" height="150px">
+ 
+</body>
+</html>
